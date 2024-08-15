@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java-IA_bootcamp_DIO.iml" filepath="$PROJECT_DIR$/.idea/Java-IA_bootcamp_DIO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trilha-java-basico/controle-fluxo/controle-fluxo.iml" filepath="$PROJECT_DIR$/trilha-java-basico/controle-fluxo/controle-fluxo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/diagramacao-classes-iphone/diagramacao-classes-iphone.iml" filepath="$PROJECT_DIR$/diagramacao-classes-iphone/diagramacao-classes-iphone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trilha-java-basico/java-anatomia-classes/java-anatomia-classes.iml" filepath="$PROJECT_DIR$/trilha-java-basico/java-anatomia-classes/java-anatomia-classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trilha-java-basico/sistema-smart-tv/sistema-smart-tv.iml" filepath="$PROJECT_DIR$/trilha-java-basico/sistema-smart-tv/sistema-smart-tv.iml" />
+    </modules>
+  </component>
+</project>
